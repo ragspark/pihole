@@ -64,3 +64,5 @@ otofthesefa.cc
 cestorshefo.cc
 9vids.com
 mybbc.fun
+browser.sentry-cdn.com
+appmetrica.yandex.ru
